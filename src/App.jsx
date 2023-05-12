@@ -1,7 +1,7 @@
 import Canvas from './canvas'
 import Customizer from './pages/Customizer'
 import './App.css'
-import Home from './pages/HOme'
+import Home from './pages/Home'
 
 function App() {
 
